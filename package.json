@@ -4,10 +4,11 @@
   "private": false,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && json-server --watch database.json --port 6969",
+    "build": "next build",
     "start": "react-scripts --openssl-legacy-provider start",
     "heroku-postbuild": "npm run build",
-    "server": "json-server --watch database.json --port 6969"
+    "server": "json-server --watch database.json --port 6969",
+    "all": "npm-run-all --parallel server build"
   },
   "dependencies": {
     "@ant-design/icons": "^4.2.2",
@@ -36,6 +37,7 @@
   },
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "concurrently": "^7.19.1"
   }
 }
