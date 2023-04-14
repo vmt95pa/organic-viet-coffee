@@ -4,11 +4,12 @@
   "private": false,
   "scripts": {
     "dev": "next dev",
-    "build": " npm-run-all --parallel next build json-server --watch database.json --port 6969 ",
+    "next": "next build",
+    "build": "npm-run-all --parallel server next",
     "start": "next start -p $PORT",
     "heroku-postbuild": "npm run build",
     "server": "json-server --watch database.json --port 6969",
-    "all":"npm-run-all --parallel server build start"
+    "all": "npm-run-all --parallel server build start"
   },
   "dependencies": {
     "@ant-design/icons": "^4.2.2",
