@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm-run-all --parallel server next build start ",
     "start": "next start -p $PORT",
     "heroku-postbuild": "npm run build",
     "server": "json-server --watch database.json --port 6969",
