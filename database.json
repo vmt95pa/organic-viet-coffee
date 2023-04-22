@@ -28,7 +28,7 @@
         "color": "brown",
         "size": "xl"
       },
-      "slug": "fresh-orange-1",
+      "slug": "1",
       "reviews": [
         {
           "id": "c3",
@@ -97,7 +97,7 @@
         "color": "brown",
         "size": "l"
       },
-      "slug": "green-chrusanthemum-2",
+      "slug": "2",
       "reviews": [
         {
           "id": "c3",
@@ -166,7 +166,7 @@
         "color": "brown",
         "size": "s"
       },
-      "slug": "mustard-australia-3",
+      "slug": "3",
       "reviews": [
         {
           "id": "c3",
@@ -236,7 +236,7 @@
         "color": "yellow",
         "size": "m"
       },
-      "slug": "grouped-product-4",
+      "slug": "4",
       "reviews": [
         {
           "id": "c3",
@@ -305,7 +305,7 @@
         "color": "yellow",
         "size": "m"
       },
-      "slug": "india-strawberry-5",
+      "slug": "5",
       "reviews": [
         {
           "id": "c3",
@@ -374,7 +374,7 @@
         "color": "yellow",
         "size": "l"
       },
-      "slug": "american-grape-6",
+      "slug": "6",
       "reviews": [
         {
           "id": "c3",
@@ -443,7 +443,7 @@
         "color": "green",
         "size": "xl"
       },
-      "slug": "anpan-coffee-7",
+      "slug": "7",
       "reviews": [
         {
           "id": "c3",
@@ -512,7 +512,7 @@
         "color": "green",
         "size": "s"
       },
-      "slug": "fortune-cookies-8",
+      "slug": "8",
       "reviews": [
         {
           "id": "c3",
@@ -581,7 +581,7 @@
         "color": "green",
         "size": "l"
       },
-      "slug": "green-cauliflower-9",
+      "slug": "9",
       "reviews": [
         {
           "id": "c3",
@@ -650,7 +650,7 @@
         "color": "green",
         "size": "m"
       },
-      "slug": "green-aus-10",
+      "slug": "10",
       "reviews": [
         {
           "id": "c3",
@@ -720,7 +720,7 @@
         "color": "red",
         "size": "l"
       },
-      "slug": "kossars-bakery-11",
+      "slug": "11",
       "reviews": [
         {
           "id": "c3",
@@ -789,7 +789,7 @@
         "color": "yellow",
         "size": "s"
       },
-      "slug": "zutter-chocolate-12",
+      "slug": "12",
       "reviews": [
         {
           "id": "c3",
