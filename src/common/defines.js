@@ -1,1 +1,2 @@
-export const API_URL = "https://json-server-vmt95pa.vercel.app";
+export const API_URL = "https://organic-viet-coffee-server.vercel.app";
+    
